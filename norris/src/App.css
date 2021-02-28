@@ -1,0 +1,8 @@
+.card, .tab-view {
+  width: 50%;
+  margin: 20px auto;
+}
+
+.input-number {
+  margin: 20px 10px;
+}
